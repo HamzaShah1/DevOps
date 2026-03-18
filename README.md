@@ -1,16 +1,8 @@
 # DevOps Learning Journey
 
-Your personal repository for tracking progress through the CoderCo DevOps curriculum.
+My personal repository to showcase my DevOps skills.
 
-## Quick Start
-
-1. Click **"Use this template"** then **"Create a new repository"**
-2. Clone your new repo locally
-3. Start learning and commit your progress
-
-![UseTemplate](./images/UseTemplate.png)
-
-![CreateRepo](./images/Createrepo.png)
+This should be a one stop shop to show all possible employability skills needed for mid - senior level DevOps roles.
 
 ## Repository Structure
 
@@ -29,7 +21,7 @@ devops-learning/
 ```
 
 Each module contains:
-- **notes/** – Your personal notes and summaries
+- **notes/** – My personal notes and summaries i made when studying for the first time
 - **labs/** – Completed lab exercises
 - **projects/** – Hands-on projects
 
@@ -47,8 +39,11 @@ Each module contains:
 | 08 - CI/CD | Not Started | 0/0 | 0/0 | 0/0 |
 | 09 - Kubernetes | Not Started | 0/0 | 0/0 | 0/0 |
 
-Update this table as you progress.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show=commits)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&repo=YOUR_REPO)
+
+<!--
 ## How to Use This Repo
 
 ### Taking Notes
@@ -111,3 +106,5 @@ MIT – Use this template however you like.
 ---
 
 Questions? Ask in the CoderCo community.
+
+-->
