@@ -39,9 +39,9 @@ Each module contains:
 | 08 - CI/CD | Not Started | 0/0 | 0/0 | 0/0 |
 | 09 - Kubernetes | Not Started | 0/0 | 0/0 | 0/0 |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show=commits)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaShah1&show=commits)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&repo=YOUR_REPO)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamzaShah1&repo=DevOps)
 
 <!--
 ## How to Use This Repo
